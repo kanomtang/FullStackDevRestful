@@ -6,10 +6,6 @@ import (
 	"encoding/json"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/gorilla/mux"
-	//"database/sql"
-	//"fmt"
-	//"strconv"
-	//m "./model"
 	s "./services"
 )
 
